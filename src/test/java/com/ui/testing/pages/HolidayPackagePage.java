@@ -1,5 +1,5 @@
-package com_ui_testing.pages;
-import com_ui_testing_utils.DriverFactory;
+package com.ui.testing.pages;
+import com.ui.testing.utils.DriverFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;

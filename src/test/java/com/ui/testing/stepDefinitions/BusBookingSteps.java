@@ -1,6 +1,6 @@
-package com_ui_testing.stepDefinitions;
+package com.ui.testing.stepDefinitions;
 
-import com_ui_testing.pages.BusBookingPage;
+import com.ui.testing.pages.BusBookingPage;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import io.cucumber.java.en.Then;

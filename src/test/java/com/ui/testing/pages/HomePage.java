@@ -1,6 +1,6 @@
-package com_ui_testing.pages;
+package com.ui.testing.pages;
 
-import com_ui_testing_utils.DriverFactory;
+import com.ui.testing.utils.DriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
