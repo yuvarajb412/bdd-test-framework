@@ -1,7 +1,7 @@
-package com_ui_testing.hooks;
+package com.ui.testing.hooks;
 
-import com_ui_testing_utils.configReader;
-import com_ui_testing_utils.DriverFactory;
+import com.ui.testing.utils.configReader;
+import com.ui.testing.utils.DriverFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

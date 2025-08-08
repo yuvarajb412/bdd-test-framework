@@ -1,6 +1,6 @@
-package com_ui_testing.stepDefinitions;
+package com.ui.testing.stepDefinitions;
 
-import com_ui_testing.pages.HolidayPackagePage;
+import com.ui.testing.pages.HolidayPackagePage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import org.apache.logging.log4j.LogManager;
