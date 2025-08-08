@@ -1,8 +1,8 @@
-package com.ui.testing.stepDefinitions;
+package com_ui_testing.stepDefinitions;
 
-import com.ui.testing.pages.HomePage;
-import com.ui.testing.utils.configReader;
-import com.ui.testing.utils.DriverFactory;
+import com_ui_testing.pages.HomePage;
+import com_ui_testing_utils.configReader;
+import com_ui_testing_utils.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
