@@ -1,4 +1,4 @@
-package com.ui.testing.utils;
+package com_ui_testing_utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;
