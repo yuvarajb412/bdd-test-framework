@@ -1,4 +1,4 @@
-package com_ui_testing_utils;
+package com.ui.testing.utils;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

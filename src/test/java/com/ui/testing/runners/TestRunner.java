@@ -1,4 +1,4 @@
-package com_ui_testing.runners;
+package com.ui.testing.runners;
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
