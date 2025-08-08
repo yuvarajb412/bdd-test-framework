@@ -1,4 +1,4 @@
-package com.ui.testing.utils;
+package com_ui_testing_utils;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
